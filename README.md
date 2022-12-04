@@ -1,3 +1,5 @@
 # learnGit
 
 test
+
+Ekleme yapıldı.
